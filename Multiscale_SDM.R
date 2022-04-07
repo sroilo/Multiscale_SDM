@@ -2,8 +2,8 @@
 #
 # Title: Multiscale_SDM.R
 # Purpose: fit multiscale ensemble models to predict breeding habitat suitability for farmland birds in the Mulde River Basin, Germany. 
-# Reference: Roilo et al. "Estimating the efficacy of agri-environment measures for farmland birds across spatial scales".
-# Author:    Stephanie Roilo, Technische Universität Dresden
+# Reference: Roilo et al. "Landscape-level heterogeneity of agri-environment measures improves habitat suitability for farmland birds".
+# Author:    Stephanie Roilo, Technische UniversitÃ¤t Dresden
 # Date:      last modified on October 8th, 2021
 #
 ###################################################
@@ -113,7 +113,7 @@ pres = filterByProximity(pres, dist = 20)
 #visual check of the data, and distribution by year
 plot(pres[,"year"], pch=20, nbreaks=19)
 
-### select other birds´ observations as background (absence) points
+### select other birdsÂ´ observations as background (absence) points
 bkg = birds[which(birds$species!= mspecies),]
 # remove points that are closer than 500 m to the presence points of the modelled species
 bkg = bkg[which(st_intersects(bkg, st_union(st_buffer(pres, dist=500)), sparse=F) == F),]
