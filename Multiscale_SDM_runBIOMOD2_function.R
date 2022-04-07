@@ -7,8 +7,8 @@
 #            scores (AUC, TSS and KAPPA, sensitivity and specificity based on AUC thresholds).
 #            The function also projects the model to the current land-use conditions (CURR scenario), and to 
 #            a new scenario in which agri-environment measures are set to zero (NOAE scenario).
-# Reference: Roilo et al. "Estimating the efficacy of agri-environment measures for farmland birds across spatial scales".
-# Author:    Stephanie Roilo, Technische Universit‰t Dresden
+# Reference: Roilo et al. "Landscape-level heterogeneity of agri-environment measures improves habitat suitability for farmland birds".
+# Author:    Stephanie Roilo, Technische Universit√§t Dresden
 # Date:      last modified on October 8th, 2021
 #
 ###################################################
