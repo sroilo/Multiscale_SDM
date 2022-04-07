@@ -2,8 +2,8 @@
 #
 # Multiscale_SDM_functions.R
 # Purpose:    collection of functions used for running the multiscale SDM models described in the following manuscript:
-# Reference:  Roilo et al. "Estimating the efficacy of agri-environment measures for farmland birds across spatial scales".
-# Author:     Stephanie Roilo, Technische Universit‰t Dresden
+# Reference:  Roilo et al. "Landscape-level heterogeneity of agri-environment measures improves habitat suitability for farmland birds".
+# Author:     Stephanie Roilo, Technische Universit√§t Dresden
 # Date:       last modified on October 8th, 2021
 #
 ###################################################
