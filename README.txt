@@ -1,7 +1,7 @@
 Description
 ==============
 
-**Roilo, S., Engler, J., Václavik, T., Cord, A. Estimating the efficacy of agri-environment measures for farmland birds across spatial scales.
+**Roilo, S., Engler, J., VÃ¡clavik, T., Cord, A. Landscape-level heterogeneity of agri-environment measures improves habitat suitability for farmland birds.
   Please acknowledge this paper when using the code or data outputs.
 
 
