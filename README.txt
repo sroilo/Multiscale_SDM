@@ -1,7 +1,7 @@
 Description
 ==============
 
-**Roilo, S., Engler, J., Václavik, T., Cord, A. Landscape-level heterogeneity of agri-environment measures improves habitat suitability for farmland birds.
+**Roilo, S., Engler, J. O., Václavík, T., & Cord, A. F. (2022). Landscape‐level heterogeneity of agri‐environment measures improves habitat suitability for farmland birds. Ecological Applications, e2720.
   Please acknowledge this paper when using the code or data outputs.
 
 
